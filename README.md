@@ -56,7 +56,7 @@ README.md → this documentation
    https://github.com/abolfazl-shadrouh/CarMarket.git
    ```
    
-2.Open the project folder:
+2. Open the project folder:
   ```bash
   cd CarMarket
   ```
