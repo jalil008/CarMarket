@@ -67,7 +67,7 @@ Open index.html (or relevant start page) in your browser 🌍
 
 ---
 
-🚧 Future Improvements
+## 🚧 Future Improvements
 
 🔹 Add backend (Node.js / Django / Flask / Laravel)
 
@@ -85,7 +85,7 @@ Open index.html (or relevant start page) in your browser 🌍
 
 ---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 Developed by Abolfazl Shadrouh
 
@@ -97,7 +97,7 @@ Developed by Abolfazl Shadrouh
 
 ---
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License ✅
 
